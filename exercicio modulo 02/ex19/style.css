@@ -1,0 +1,12 @@
+@charset "UTF-8"
+
+<style>
+h1{
+    background-color: lightgray;
+    height: 120px;
+    width: 400px;
+    border-inline-start-width: 10px;
+    border-style: solid;
+    border-inline-start-color: darkslategray;
+}
+</style>
